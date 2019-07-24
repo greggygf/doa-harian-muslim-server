@@ -1,7 +1,6 @@
 {
   "dzikir_pagi": [
     {
-      "id": 1,
       "title": "[1] Isti'adzah Pagi",
       "instruction": "( Dibaca 1x )",
       "arabDesc": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيم",
@@ -11,7 +10,6 @@
 
   "dzikir_sore": [
     {
-      "id": 1,
       "title": "[1] Isti'adzah Sore",
       "instruction": "( Dibaca 1x )",
       "arabDesc": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيم",
